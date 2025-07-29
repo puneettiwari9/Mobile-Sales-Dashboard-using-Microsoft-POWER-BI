@@ -1,50 +1,73 @@
-📊 Mobile Sales Dashboard - Power BI Project
-Welcome to my Power BI project! This is an interactive sales analytics dashboard built to analyze mobile phone sales data across different cities, brands, and payment methods.
+# 📱 Mobile Sales Interactive Dashboard – Power BI Project
 
-🧠 Project Overview
-The Mobile Sales Dashboard provides an end-to-end view of mobile sales performance with key metrics and dynamic filters. It helps businesses make data-driven decisions by tracking sales trends, customer preferences, and transaction behaviors.
+Welcome to my Power BI project! This dashboard is a visual analytics tool designed to provide deep insights into mobile sales across different cities, brands, models, and payment methods.
 
-🚀 Key Insights
-💰 Total Sales: ₹769M
+This was built as part of my learning journey through a skills-based Power BI course, where I applied real-world data visualization techniques to build a fully interactive business dashboard.
 
-📦 Total Quantity Sold: 19,000+ Units
+---
 
-💳 Transactions: 4,000
+## 📊 Project Highlights
 
-⭐ Average Sale Value: ₹40K
+| Metric              | Value     |
+|---------------------|-----------|
+| 💰 Total Sales      | ₹769 Million |
+| 📦 Quantity Sold    | 19,000+ Units |
+| 💳 Transactions     | 4,000 |
+| ⭐ Avg. Sale Value  | ₹40,000 |
 
-🏙️ Sales by City: 20+ Indian cities visualized on map
+---
 
-📱 Top Mobile Models Sold: iPhone SE, OnePlus Nord, Galaxy Note
+## 🧠 Key Insights Visualized
 
-🏷️ Brand-wise Analysis: Apple, Samsung, Xiaomi, Vivo, OnePlus
+- **📍 City-wise Sales Performance** (Map View)
+- **📆 Monthly Quantity Trends**
+- **📱 Top Performing Mobile Models** – iPhone SE, OnePlus Nord, Galaxy Note
+- **🏷️ Brand-Wise Performance** – Apple, Samsung, OnePlus, Vivo, Xiaomi
+- **💸 Transactions by Payment Method** – UPI, Debit Card, Credit Card, Cash
+- **⭐ Customer Rating Distribution** – 1 to 5 star feedback
+- **📅 Weekly Sales Trends** – Sales by Day of the Week
 
-📆 Monthly & Weekly Trends in sales and quantity
+---
 
-💸 Payment Method Split: UPI, Debit Card, Credit Card, Cash
+## 📌 Dashboard Features
 
-🌟 Customer Ratings: Breakdown of feedback from 1 to 5 stars
+✅ Fully interactive filters (Brand, City, Payment Method, Model)  
+✅ Slicers for monthly drill-downs  
+✅ Clean and modern UI  
+✅ Data-driven decision support for business stakeholders
 
-📌 Features
-✔️ Interactive filters for brand, city, payment method, and model
+---
 
-✔️ Dynamic visuals (bar charts, pie charts, maps, line graphs)
+## 🛠️ Tools & Skills Used
 
-✔️ Monthly and day-wise trends for deeper insight
+- **Power BI**
+- **DAX (Data Analysis Expressions)**
+- **Power Query**
+- **Interactive Visualizations** (Line Charts, Pie Charts, Maps, Bar Charts)
+- **Data Modeling & Transformation**
 
-✔️ Clear and intuitive UI with responsive layout
+---
 
-🛠️ Tools Used
-Microsoft Power BI
+## 📷 Dashboard Preview
 
-DAX for calculated measures
+![Mobile Sales Dashboard Preview](./my%20sales%20dashboard.jpg)
 
-Custom visuals & slicers
+---
 
-Data modeling & transformation
+## 🎯 Purpose of This Project
 
-📷 Dashboard Preview
+This dashboard simulates a real-world business use case in mobile sales tracking. It helps sales and marketing teams understand:
 
-🎯 Purpose of the Project
-This project was built as part of a Power BI skill development course to practice real-world business intelligence applications. It showcases how visualization can unlock insights in sales data for better decision-making.
+- Where the most sales are coming from
+- Which brands and models are performing best
+- How customers are paying
+- Trends across months and days
+- Overall customer satisfaction through ratings
+
+
+## ⭐ Show Some Love
+
+If you find this project helpful or inspiring, feel free to **star** ⭐ the repo and **follow** for more dashboards and data analytics content!
+
+
 
